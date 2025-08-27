@@ -1,5 +1,5 @@
 # Ian
 ### Profile
-- **Started**: today’s date
+- **Started**: 27/08/2025
 - **Role**: Software Developer
-- **Hobbies**: Rowing, Reading, and Role-playing
+- **Hobbies**: Woodwork, Resin Art and Gaming
